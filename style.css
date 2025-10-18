@@ -21,7 +21,7 @@ body{
 }
 
 h1{
-    color: red;
+    color: rgba(5, 65, 27, 0.737);
 }
 
 button{
@@ -29,7 +29,7 @@ button{
     font-size: 16px;
     color: white;
     border: none;
-    background-color: rgba(255, 0, 0, 0.535);
+    background-color: rgba(5, 65, 27, 0.737);
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease;
